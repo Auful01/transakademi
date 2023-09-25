@@ -6,7 +6,7 @@
                 <div class="col-md-7">
                     <div class="card border-0 bg-primary" style="border-radius: 20px;margin-top: -50px;">
                         <div class="card-body text-center">
-                            <h3 style="font-weight: 700;" >MENGAPA MEMILIH TRANSFERAKADEMI?</h3>
+                            <h3 style="font-weight: 700;" >MENGAPA MEMILIH TRANSFER AKADEMI?</h3>
                         </div>
                     </div>
                 </div>
@@ -24,9 +24,9 @@
                                 <h5>&nbsp;Dibimbing langsung oleh tutor yang ahli</h5>
                             </div>
                         </div>
-                        <p>
+                        {{-- <p>
                             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque vel inventore distinctio. Maiores harum quaerat voluptate non modi, impedit beatae minima, voluptates, sequi vel dolorem pariatur distinctio eveniet hic consectetur?
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
@@ -39,9 +39,9 @@
                                 <h5>Pengajaran yang seru </h5>
                             </div>
                         </div>
-                        <p>
+                        {{-- <p>
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo impedit tempore inventore quae possimus velit doloremque nobis, provident facilis debitis voluptatum iusto adipisci dignissimos harum consequatur ad illo laboriosam blanditiis?
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
                 <div class="col-md-6 mb-3">
@@ -54,9 +54,9 @@
                                 <h5>Menerapkan metode pembelajaran terintegrasi (Speaking, Grammar, Pronunciation)</h5>
                             </div>
                         </div>
-                        <p>
+                        {{-- <p>
                             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptas mollitia, fugit itaque tenetur nulla magni hic facilis nesciunt, neque, animi sapiente! Nesciunt dolore voluptas excepturi dolorem accusamus illum, nostrum ullam?
-                        </p>
+                        </p> --}}
                     </div>
                 </div>
 
